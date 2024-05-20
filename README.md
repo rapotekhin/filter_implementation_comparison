@@ -1,7 +1,7 @@
 
 # Filter Implementation Comparison
 
-This project evaluates the performance and correctness of filter functions implemented in C, C++, and Python, interfacing C and C++ through Python using the `ctypes` library. The goal is to compare how each implementation handles filtering operations, both in terms of speed and output accuracy.
+This project evaluates the performance and correctness of filter functions like `array[indx]` implemented in C, C++, and Python, interfacing C and C++ through Python using the `ctypes` library. The goal is to compare how each implementation handles filtering operations, both in terms of speed and output accuracy.
 
 ## Prerequisites
 
